@@ -1,4 +1,4 @@
-# Prompt-Engering
+# Prompt-Engering-Global
 
 一份面向软件工程协作场景的 Claude Code / Codex 全局提示词，强调工程质量、真实性、安全边界、验证与学习。
 
